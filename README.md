@@ -9,3 +9,10 @@ iOS Rotten Tomatoes
 https://github.com/MikeEmery/Swift-iOS-Rotten-Tomatoes
 
 Displays a list of movies from Rotten Tomatoes.  You can tap on a table view cell to view movie details.
+
+Cat Problem Solver
+==================
+
+https://github.com/MikeEmery/Swift-Cat-Solver
+
+Solves a problem from the latest Professor Layton game on the 3DS.  3x3 cats on a 5x5 board, try to have only the black one remain at the end.
